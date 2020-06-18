@@ -1,5 +1,5 @@
 def rainbow_colors
-  []
+  [ ]
   
 end
 
