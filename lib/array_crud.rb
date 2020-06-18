@@ -1,4 +1,4 @@
-def create_an_empty_array
+def rainbow_colors
   []
   
 end
@@ -9,7 +9,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array
-  add_element_to_end_of_array << ("Blue", "Violet") 
+   create_an_array << ("Blue", "Violet") 
   
 end
 
