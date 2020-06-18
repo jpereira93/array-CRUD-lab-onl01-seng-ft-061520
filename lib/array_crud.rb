@@ -1,4 +1,4 @@
-def rainbow_colors
+def create_an_empty_array
   [ ]
   
 end
