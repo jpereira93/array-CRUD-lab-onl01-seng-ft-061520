@@ -4,7 +4,7 @@ def rainbow_colors
 end
 
 def rainbow_colors
-  ["Red", "Organge", "Yellow","Green"]
+  rainbow_colors = ["Red", "Organge", "Yellow","Green"]
   
 end
 
