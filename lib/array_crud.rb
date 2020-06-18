@@ -4,7 +4,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  rainbow_colors = ["Red", "Organge", "Yellow","Green"]
+  rainbow_colors = ["Red", "Organge", "Yellow","Green",]
   
 end
 
