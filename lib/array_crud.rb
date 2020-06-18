@@ -3,7 +3,7 @@ def create_an_empty_array
   
 end
 
-def rainbow_colors
+def create_an_empty_array
   rainbow_colors = ["Red", "Organge", "Yellow","Green"]
   
 end
