@@ -4,17 +4,17 @@ def create_an_empty_array
 end
 
 def create_an_array
-  rainbow_colors = ["Red", "Organge", "Yellow","Green",]
+  rainbow_colors = ["Red", "Orange", "Yellow","Green",]
   
 end
 
 def add_element_to_end_of_array(array,element)
+   rainbow_colors = ["Red", "Orange","Yellow", "Green"]
    rainbow_colors << "Blue" 
-   puts rainbow_colors.inspect
   
 end
 
-def add_element_to_start_of_array(array, rainbow_colorslearn --fail)
+def add_element_to_start_of_array(array)
   
 end
 
