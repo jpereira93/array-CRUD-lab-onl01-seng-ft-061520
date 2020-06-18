@@ -22,7 +22,7 @@ end
 
 def remove_element_from_end_of_array(array)
   rainbow_colors = ["Red", "Orange","Yellow", "arrays!"]
-  rainbow_colors.pop("arrays!")
+  rainbow_colors.pop
   
   
 end
