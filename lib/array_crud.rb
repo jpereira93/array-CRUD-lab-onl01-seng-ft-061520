@@ -16,7 +16,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   rainbow_colors = ["Red", "Orange","Yellow", "Green"]
-  rainbow_colors.unshift("array!","element")
+  rainbow_colors.unshift("array","element")
   
 end
 
