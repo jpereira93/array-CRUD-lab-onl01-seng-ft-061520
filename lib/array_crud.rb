@@ -47,5 +47,7 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
+  rainbow_colors = ["wow", "am","Yellow", "Green"]
+  rainbow_colors[3]
   
 end
