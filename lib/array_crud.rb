@@ -3,12 +3,12 @@ def create_an_empty_array
   
 end
 
-def create_an_empty_array
+def create_an_array
   rainbow_colors = ["Red", "Organge", "Yellow","Green"]
   
 end
 
-def rainbow_colors
+def add_element_to_end_of_array(array,rainbow_colors)
    rainbow_colors.push ("Blue") 
   
 end
