@@ -3,17 +3,18 @@ def rainbow_colors
   
 end
 
-def create_an_array
+def rainbow_colors
   ["Red", "Organge", "Yellow","Green"]
   
 end
 
-def add_element_to_end_of_array
-   create_an_array << ("Blue", "Violet") 
+def rainbow_colors
+   rainbow_colors << ("Blue") 
   
 end
 
 def add_element_to_start_of_array(array, element)
+  rainbow_colors.unshift ("Indigo")
   
 end
 
