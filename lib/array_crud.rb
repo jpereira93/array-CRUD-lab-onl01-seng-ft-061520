@@ -10,7 +10,7 @@ end
 
 def add_element_to_end_of_array(array,element)
    rainbow_colors = ["Red", "Orange","Yellow", "Green"]
-   rainbow_colors << "Blue!" 
+   rainbow_colors << "array!" 
   
 end
 
