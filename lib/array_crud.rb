@@ -9,12 +9,11 @@ def rainbow_colors
 end
 
 def rainbow_colors
-   rainbow_colors << ("Blue") 
+   rainbow_colors  ("Blue") 
   
 end
 
 def add_element_to_start_of_array(array, element)
-  rainbow_colors.unshift ("Indigo")
   
 end
 
