@@ -9,7 +9,7 @@ def rainbow_colors
 end
 
 def rainbow_colors
-   rainbow_colors  ("Blue") 
+   rainbow_colors.push ("Blue") 
   
 end
 
