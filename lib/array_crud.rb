@@ -8,8 +8,8 @@ def create_an_array
   
 end
 
-def add_element_to_end_of_array(array,rainbow_colors)
-   rainbow_colors.push ("Blue") 
+def add_element_to_end_of_array(array,element)
+   rainbow_colors << ("Blue") 
   
 end
 
